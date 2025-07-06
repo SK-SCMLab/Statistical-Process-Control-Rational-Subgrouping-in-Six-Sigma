@@ -31,7 +31,7 @@ The common cause variation is that which can be usually seen in the process
 
   ```mermaid
   flowchart TD;
-  A[High frequency] --> B [High predictability];
+  A[High frequency] --> B[High predictability];
   C[Repetitive] --> D[Huge investment and time to identify & remove them];
   ```
 
