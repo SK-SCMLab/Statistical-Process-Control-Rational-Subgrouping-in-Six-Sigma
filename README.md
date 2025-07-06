@@ -51,3 +51,26 @@ The common cause variation is that which can be usually seen in the process
   ```
 
   ---
+
+## 🕹 Subgroup
+A collection of units that are produced or created under the same set of conditions
+
+### Rational subgroups
+- Represents the process at a particular point in time
+- Measurements must be taken within a short span of time but should also be independent of each other
+
+|*Approach 1*|*Approach 2*|
+|-------------|-----------|
+|Sample -> Every other group of 10 consecutive units| Sample -> Random for all process o/p over the sampling interval|
+|- used to detect process shifts|-Used to make decisions about the acceptance of a product|
+|- A process shift happens overtime and is reflected in variation of the o/p variables|- detecting the shifts of the o/p variable to an out of control state and back into an in-control state between samples|
+|Eg. Process -> 10 consecutive units -> everyone group|Eg: Process -> 100 parts per hour -> 5 randomly selected parts every hour|
+
+### Rational Subgrouping
+Rational subgrouping refers to the solution of subgroups or samples in a way that if special causes are present, chances for differeces between subgroups will be maximized and chance for differences due to assignable causes within a subgroups will be minimized
+- The interval bars represent the within subgroup variation
+- In the graph, it connects the averages of the consecutive subgroups represneting the subgroup variation
+
+---
+
+*"Any fool can know. The point is to understand"* - Albert Einstein
