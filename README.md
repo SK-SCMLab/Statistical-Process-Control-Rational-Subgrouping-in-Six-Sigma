@@ -10,5 +10,5 @@ SPC is a quality control method that uses statistical techniques to monitor and 
 flowchart TD:
 A[SPD] --> |Visual Monitoring| C[Process & its parameters]
 |Statiscal measures| B[Inputs] --> C
-C --> |Statistical measures| D[Outputs]
+C --> |Statistical measures| D[Outputs];
 ```
